@@ -4,7 +4,7 @@
 #### Myself [Sushmita](github.com/sush14feb), an Undergraduate student in Chemical Engineering Department at IIT Kanpur
 
 - 🌱I’m currently working on **myself** 😅
-- 🤔 I’m looking for help with a lot of things in life :neutral_face
+- 🤔 I’m looking for help with a lot of things in life :neutral_face:
 - 💜 loves music ❤ anime & playing badminton🏸
 - 📫 How to reach me: sush14feb2003@gmail.com:email: sushmitag20@iitk.ac.in:e-mail:
 - ⚡ Fun fact: Online semester sucks :slightly_smiling_face:
