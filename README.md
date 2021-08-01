@@ -17,9 +17,8 @@
 <code><img height="30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sush14feb&theme=light)](https://github.com/anuraghazra/github-readme-stats.vercel.api/top-langs?username=sush14feb)
 <br>
 ![](https://komarev.com/ghpvc/?username=sush14feb&style=round)
+<!--<img  align="right" src="https://github-readme-stats.vercel.app/api?username=sush14feb&show_icons=true&theme=dracula&bg_color=white&text_color= black">-->
+
