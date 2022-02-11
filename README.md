@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### Myself [Sushmita](github.com/sush14feb), an Undergraduate student in Chemical Engineering Department at IIT Kanpur
+#### Myself [Sushmita](https://www.linkedin.com/in/sushmita-kumari-7a5a351ba/), an Undergraduate student in Chemical Engineering Department at IIT Kanpur
 
 - 🌱I’m currently exploring **Data Sience** and learnig **Web Dev**.....
 - 💜 loves music ❤ anime.......
